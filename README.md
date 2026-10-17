@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="GDG on Campus MAHE Dubai Logo" width="220" />
+  <img src="logo2.png" alt="GDG on Campus MAHE Dubai Logo" width="220" />
 </p>
 <h1 align="center">Google Developer Groups on Campus</h1>
 <h2 align="center">Manipal Academy of Higher Education, Dubai</h2>
