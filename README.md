@@ -63,15 +63,15 @@ GDG on Campus MAHE Dubai organizes activities across six dedicated engineering t
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      GDG MAHE DUBAI TRACKS                             │
 ├─────────────────────┬──────────────────────┬───────────────────────────┤
-│ 🤖 AI & ML          │ ☁️ Cloud & DevOps     │ 📱 Mobile Development     │
+│ 🤖 AI & ML          │ ☁️ Cloud & DevOps    │ 📱 Mobile Development.    |
 │  • Gemini API / LLMs│  • Google Cloud (GCP)│  • Flutter & Dart         │
 │  • TensorFlow & JAX │  • Firebase Backend  │  • Native Android / Kotlin│
 │  • Autonomous Agents│  • Docker & K8s      │  • Multi-Platform Apps    │
 ├─────────────────────┼──────────────────────┼───────────────────────────┤
-│ 🌐 Modern Web       │ 🔐 Systems & Security │  🏆 Open Source & DSA     │
-│  • Angular / React  │  • Reverse Eng. (REA)│  • Git & GitHub Workflows │
+│ 🌐 Modern Web       │ 🔐 Systems & Security │  🏆 Open Source & DSA    │
+│  • Angular / React  │                      │  • Git & GitHub Workflows │
 │  • PWA & Web Vitals │  • Binary Analysis   │  • Solution Challenge     │
-│  • TypeScript/Node  │  • Secure Coding     │  • Competitive Coding     │
+│  • TypeScript/Node  │  • Secur• Hackathon.             │
 └─────────────────────┴──────────────────────┴───────────────────────────┘
 ```
 
